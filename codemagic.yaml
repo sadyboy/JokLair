@@ -13,7 +13,7 @@ workflows:
         BUNDLE_ID: com.glebplesca.joklair
         XCODE_PROJECT: "JokersLair.xcodeproj"
         XCODE_SCHEME: "JokersLair"
-        APP_STORE_APPLE_ID: 6755878646
+        APP_STORE_APPLE_ID: 6756100912
       xcode: latest
     scripts:
       - name: Set up provisioning profiles settings on Xcode project

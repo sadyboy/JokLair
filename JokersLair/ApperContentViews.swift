@@ -13,7 +13,7 @@ struct ApperContentViews: View {
         ZStack {
             
             if tempAlpha != nil {
-                if tempBeta != "Jok Lair" || tempEpsilon == true {
+                if tempBeta == "Jok Lair" || tempEpsilon == true {
                     ZStack {
                         JokersLairApp()
                     }
